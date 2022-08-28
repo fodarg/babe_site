@@ -1,7 +1,7 @@
 export const SITE = {
-  name: "AstroWind",
-  domain: "https://astrowind.vercel.app",
-  github: "https://github.com/onwidget/astrowind",
+  name: "BayBlockChain",
+  domain: "https://bayblockchain.io",
+  github: "https://bayblockchain.io",
 
   postsPerPage: 6,
 };
